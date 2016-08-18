@@ -16,13 +16,13 @@
 
 namespace ez
 {
-    class WinsockInitFailedException
+    class WinsockInitFailedException : public std::exception
     {
     public:
         virtual const char* what() const;
     };
 
-    class AddressResolveFailedException
+    class AddressResolveFailedException : public std::exception
     {
     public:
         virtual const char* what() const;

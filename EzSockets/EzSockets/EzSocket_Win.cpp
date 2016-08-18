@@ -1,6 +1,6 @@
-//Author: Rémi Pelletier
+//Author: RÃ©mi Pelletier
 //File:   EzSocket_Win.cpp
-//Desc.:  Definition of the EzSocket_Win class as well Winsock
+//Desc.:  Definition of the EzSocket_Win class as well as Winsock
 //        related functions and exceptions.
 
 #ifdef _WIN32

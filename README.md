@@ -1,6 +1,6 @@
 # EzSockets  
 **Author :** Rémi Pelletier  
-**Description :** Simple cross-platform sockets wrapper. 
+**Description :** Simple cross-platform sockets wrapper (Work in progress). 
   
 ## Notice  
 
